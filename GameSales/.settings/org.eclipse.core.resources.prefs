@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/Main.java=UTF-8
+encoding//src/business/concretes/GameManager.java=UTF-8
+encoding//src/business/concretes/GamerManager.java=UTF-8
+encoding//src/business/concretes/SaleManager.java=UTF-8
+encoding//src/dataAccess/concretes/CampaignJdbcDao.java=UTF-8
+encoding//src/dataAccess/concretes/GameJdbcDao.java=UTF-8
+encoding//src/dataAccess/concretes/SaleJdbcDao.java=UTF-8
+encoding//src/entities/concrets/Sale.java=UTF-8
+encoding//src/tr/gov/nvi/tckimlik/WS/KPSPublic.java=UTF-8
+encoding//src/tr/gov/nvi/tckimlik/WS/KPSPublicLocator.java=UTF-8
+encoding//src/tr/gov/nvi/tckimlik/WS/KPSPublicSoap.java=UTF-8
+encoding//src/tr/gov/nvi/tckimlik/WS/KPSPublicSoapStub.java=UTF-8
